@@ -3,6 +3,7 @@
   "description": "This project is created using Direflow",
   "version": "1.0.0",
   "private": true,
+  "homepage":"http://10.10.6.43/web_component",
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
